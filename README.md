@@ -37,7 +37,7 @@ Project Structure
 data/ → Raw datasets sql/ → SQL queries used for analysis Tableau/ → Tableau dashboard file (.twbx) README.md → Project documentation
 
 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 How to Use
 	1	Download the .twbx file from Tableau folder
